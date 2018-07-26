@@ -23,7 +23,7 @@ all for MAC
 
 6 MachOView
 
-7 Go2Shell
+7 Lantern
 
 8 iTerm
 
